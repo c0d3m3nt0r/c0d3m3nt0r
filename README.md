@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @c0d3m3nt0r, a curious person who loves coding and learn from the world around me.
+- 👀 I’m interested in projects with multiple stacks of technologies and high complexity.
+- 🌱 I’m currently learning machine learning.
+- 💞️ I’m looking to collaborate on any interesting project.
+- 📫 How to reach me, well just drop me a message.
